@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(130, 44, 103);
+}
+.titulo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+   font-size: 50px;
+   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2UjcZgXQlyauDNUG3KxwEAHaEK%26pid%3DApi&f=1");
+   height: 150px;
+    
+}
+
+.ordenado{
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+}
+.selec{
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin: 0px 0px 5px 0px;
+}
+
+.main{
+    background-color: rgb(0, 0, 0);
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.1zoom.me%2Fbig3%2F876%2F373381-sepik.jpg&f=1&nofb=1");
+   
+    background-repeat: space;
+    text-align: center;
+}
+
+.contenedor{
+    display: inline-grid;
+    margin: auto;
+    width: 280px ;
+    height: 500px;
+    background-color: brown;
+    margin: 20px 30px 20px 30px;
+    border-radius: 5px;
+}
+.img{
+    
+    text-align: center;
+}
+.imagen{
+    width: 250px;
+    border-radius: 10px;
+}
+
+.center{
+    text-align: center;
+    background-color: rgb(254, 247, 247);
+    height: 40px;
+}
+.center1{
+    text-align: center;
+    color: beige;
+    background-color: rgb(21, 20, 20);
+    height: 40px;
+    padding: 10px auto;
+}
+.center2{
+    text-align: center;
+    color: rgb(17, 144, 5);
+    background-color: rgb(254, 247, 247);
+    height: 40px;
+}
